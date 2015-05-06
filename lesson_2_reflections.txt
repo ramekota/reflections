@@ -10,10 +10,17 @@ It will allow to logical group the related files and create commit
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Add the file to staging area and commit 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+To baseline the workign version and create multiple branches for experiments
+
 How do the diagrams help you visualize the branch structure?
+
+Daigrams help to travese the path of the branch and also understand un reachable commits
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

@@ -25,6 +25,9 @@ Daigrams help to travese the path of the branch and also understand un reachable
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merges 2 branches into 1 branch with changes integrated 
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+GIT Merging will allow to identify all the merge conflicts when compared to Manual Merging 
 
